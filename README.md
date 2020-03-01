@@ -3,6 +3,11 @@ Development of a control unit to permit Chademo 50kw DC Fast Charging on convert
 
 Designfiles in Designspark PCB 9.0 format.
 
+01/03/20 : Design files uploaded. Prototypes ordered from JLCPCB. Untested as of this release.
+<br>
+<br>
+
+
 Hardware based on the JLD505 design by :
 Collin Kidder, Paulo Alemeida, Jack Rickard.
 
