@@ -8,6 +8,10 @@ Designfiles in Designspark PCB 9.0 format.
 <br>
 
 
+16/04/20 : Uploaded pinout.
+
+
+
 Hardware based on the JLD505 design by :
 Collin Kidder, Paulo Alemeida, Jack Rickard.
 
