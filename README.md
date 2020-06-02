@@ -11,6 +11,9 @@ Designfiles in Designspark PCB 9.0 format.
 16/04/20 : Uploaded pinout.
 
 
+02/06/20 : Following some testing failures, V2 hardware now uploaded. Problems arose with the HV voltage divider and isolation distances.
+
+
 
 Hardware based on the JLD505 design by :
 Collin Kidder, Paulo Alemeida, Jack Rickard.
