@@ -13,6 +13,16 @@ Designfiles in Designspark PCB 9.0 format.
 
 02/06/20 : Following some testing failures, V2 hardware now uploaded. Problems arose with the HV voltage divider and isolation distances.
 
+15/09/20 : Following failure of the two previous version based on having HV sensing onthe board the decision was made to use an external sensor and transmitt the data via can. The device chosen is the ISA IVT shunt that I now use in all my vehicles for battery monitoring :
+https://www.isabellenhuette.de/en/precision-measurement/standard-products/ivt-series/
+
+Isaac Kelly on the Openinverter forum did the big task of porting the old firmware from the Atmega328 to the much more capable SAM3X8E and removing a lot of legacy rubbish :
+https://openinverter.org/forum/viewtopic.php?f=17&t=524
+
+The result is now a working system to implement Chademo on EV conversion without the need to sense HV on the actual board. 
+Software is fully opensource.
+Hardware schematics and gerbers released. Full sources in the near future.
+
 
 
 Hardware based on the JLD505 design by :
