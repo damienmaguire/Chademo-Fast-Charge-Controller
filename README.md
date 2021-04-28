@@ -30,6 +30,7 @@ Collin Kidder, Paulo Alemeida, Jack Rickard.
 
 Software : https://github.com/collin80/JLD505
 
+
 This software is MIT licensed:
 
 Copyright (c) 2014 Collin Kidder, Paulo Alemeida, Jack Rickard
@@ -42,3 +43,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 10/02/20 : Initial commit and PCB layout commenced. 
+
+28/04/21 : New V3 hardware and software uploaded. Based on the Openinverter software system by Johannes Huebner using an STM32F103C8T6 MCU.
+
